@@ -18,42 +18,42 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 2. [31/3/25] Le tecnologie informatiche nelle scienze umane
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/09.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/09.pdf)
     <hr />
    
 3. [1/4/25] Computer, pensiero computazionale e strutture dati
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/01.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/01.pdf)
    <hr />
 
 4. [3/4/25] Algoritmi e computabilità
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/02.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/02.pdf)
    <hr />
 
 5. [7/4/25] Linguaggi di programmazione
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/03.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/03.pdf)
    <hr />
 
 6. [8/4/25] Cosa succede quando si clicca un link: Il World Wide Web
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/04.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/04.pdf)
    <hr />
 
 7. [10/4/25] Cosa succede quando si clicca un link: I protocolli di comunicazione
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/05.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/05.pdf)
    <hr />
 
 8. [14/4/25] Cosa succede quando si clicca un link: Internet
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/06.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/06.pdf)
    <hr />
 
 9. [15/4/25] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
-   * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/07.pdf)
+   * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/07.pdf)
    <hr />
 
 10. [28/4/25] Cosa succede quando si clicca un link: Le pagine web
-    * capitolo: [PDF](https://basic-inf.github.io/2023-2024/chapters/08.pdf)
+    * capitolo: [PDF](https://basic-inf.github.io/2024-2025/chapters/08.pdf)
     * materiale:
       * [CSS Zen Garden](http://www.csszengarden.com/)
-      * [Esempio](https://basic-inf.github.io/2023-2024/material/example.html) di pagina HTML
+      * [Esempio](https://basic-inf.github.io/2024-2025/material/example.html) di pagina HTML
     <hr />
 
 11. [29/4/25] Wrap-up
