@@ -67,6 +67,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 11. [29/4/25] Wrap-up
+    * slide: [Google Slides](https://tinyurl.com/bi1819-10)
+    <hr />
+
+12. [15/5/25] Lezione su diagrammi di flusso con le tutor
+
+    La lezione verrà tenuta esclusivamente in modalità remota. Il link alla stanza Teams per seguire la lezione verrà mandato prima della lezione a tutte le studentesse e tutti gli studenti al loro indirizzo email istituzionale.
     <hr />
 
 
@@ -83,5 +89,6 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
   <tr><td>15/4/25</td><td>09:00-11:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
   <tr><td>28/4/25</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
   <tr><td>29/4/25</td><td>09:00-11:00</td><td>Wrap-up</td></tr>
+  <tr><td>15/5/25</td><td>09:00-11:00</td><td>Lezione sui diagrammi di flusso con le tutor</td></tr>
 </table>
     
