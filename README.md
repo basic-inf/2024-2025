@@ -71,6 +71,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
     <hr />
 
 12. [15/5/25] Lezione su diagrammi di flusso con le tutor
+    * slide: [PDF](https://basic-inf.github.io/2024-2025/slides/lab.pdf)
 
     La lezione verrà tenuta esclusivamente in modalità remota. Il link alla stanza Teams per seguire la lezione verrà mandato prima della lezione a tutte le studentesse e tutti gli studenti al loro indirizzo email istituzionale.
     <hr />
